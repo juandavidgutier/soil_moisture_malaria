@@ -1,7 +1,7 @@
 library(tidyr); library(dlnm) ; library(mixmeta) ; library(splines) ; library(tibble)
 library(dplyr); library(ggplot2); library(RCurl); library(MKdescr); library(purrr); library(broom)
 
-df_na <- read.csv("D:/clases/UDES/articulo malaria total/dnlm_humedad_suelo/reviewers/code/top50.csv")
+df_na <- read.csv("D:/top50.csv")
 df <- df_na %>% drop_na()
 
 # sd units
