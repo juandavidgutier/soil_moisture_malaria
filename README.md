@@ -14,5 +14,5 @@ Juan David Gutiérrez
 
 ## libraries
 
-ggdag; dagitty; GGally, lavaan; tidyr; dlnm; mvmeta; splines; dplyr; ggplot2; RCurl; MKdescr
+tidyr; dlnm; mixmeta; splines; dplyr; ggplot2; MKdescr; broom; purrr
 
